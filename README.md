@@ -8,7 +8,7 @@ This project/smart contract serves as the 4th and final assessment for Metacraft
  1. Connect to the Avalance Fuji Test network via Metamask.
  2. Open [Remix IDE](https://remix.ethereum.org/), an online Solidity IDE.
  3. Create a new file and name it with whatever you want, as long as it ends with the .sol extension.
- 4. Copy and paste the code in the Assessment.sol file.
+ 4. Copy and paste the code in the Assessment4.sol file.
  5. Set the compiler version to 0.8.18+ (IMPORTANT).
  6. Select "Injected Provider" as the environment.
  7. Metamask will ask to connect your account with the smart contract. It is important to have AVAX in order to make transactions.
